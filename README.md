@@ -1,4 +1,4 @@
 # hello-world
-This is a sample helo world python code.
+This is a sample hello world python code.
 
 # version-1.0
