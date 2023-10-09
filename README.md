@@ -1,4 +1,4 @@
 # hello-world
-This is a sample repository in the branch name called readme-edits
+This is a sample helo world python code.
 
 # version-1.0
