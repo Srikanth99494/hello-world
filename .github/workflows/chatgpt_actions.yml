@@ -13,7 +13,7 @@ jobs:
     name: ChatGPT reviewer
     steps:
       - name: ChatGPT reviewer code
-        uses: fitomad/github-chatgpt-integration@main
+        uses: Srikanth99494/hello-world@main
         with:
           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           github-token: ${{ secrets.GH_TOKEN }}
